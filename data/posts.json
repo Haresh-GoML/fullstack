@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "getting-started-with-nextjs",
+    "title": "Getting Started with Next.js",
+    "excerpt": "Learn the basics of building modern web applications with Next.js.",
+    "content": "Next.js is a React framework for building fast and scalable web applications. It provides routing, server rendering, static generation, and many other useful features.",
+    "author": "Haresh",
+    "date": "2026-08-20"
+  },
+  {
+    "slug": "understanding-static-generation",
+    "title": "Understanding Static Generation",
+    "excerpt": "A simple explanation of Static Site Generation in Next.js.",
+    "content": "Static Site Generation means generating HTML pages at build time. These pages can then be served quickly from a CDN without generating the page for every request.",
+    "author": "Haresh",
+    "date": "2026-08-19"
+  },
+  {
+    "slug": "dynamic-routes-in-nextjs",
+    "title": "Dynamic Routes in Next.js",
+    "excerpt": "Learn how dynamic routes work using the App Router.",
+    "content": "Dynamic routes allow us to create pages based on changing values such as a post slug. In Next.js, folders like [slug] are used to create dynamic routes.",
+    "author": "Haresh",
+    "date": "2026-08-18"
+  }
+]
